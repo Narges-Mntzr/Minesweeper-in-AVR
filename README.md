@@ -21,7 +21,4 @@ left top four push buttons are arrow keys (top - right - down - left clockwise).
 ## Code
 Code is written in C with Atmel studio (in "Code - Atmel" directory)
 
-## Contributor
-[Sana Mehrab Beigi](https://github.com/sanamehrabbeigi)
-
 
